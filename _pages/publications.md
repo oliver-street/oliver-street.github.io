@@ -5,16 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## 2023
 
 Holm, D. D., Hu, R., & Street, O. D., 2023. On the interactions between mean flows and inertial gravity waves. Preprint. Under peer review. [https://arxiv.org/abs/2302.04838](https://arxiv.org/abs/2302.04838)
