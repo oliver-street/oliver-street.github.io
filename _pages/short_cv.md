@@ -9,51 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+Research experience
+======
+
+<dl>
+  <dt>2022 - </dt>
+  <dd> <strong>Research Associate</strong>, Imperial College London, Department of Mathematics. <font size="-1"> Working within the project ‘Stochastic Transport in Upper Ocean Dynamics’ (STUOD), funded by an ERC Synergy Grant and hosted by Ifremer, Inria, and Imperial College London. </font></dd>
+</dl>
+
+<dl>
+  <dt> 2021 </dt>
+  <dd> <strong> Research internship</strong>, UK Met Office, Exeter. </dd>
+</dl>
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<dl>
+  <dt>2019 - 2022</dt>
+  <dd><strong>PhD</strong>. Imperial College London, Department of Mathematics.</dd>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  <dt>2018 - 2019</dt>
+  <dd><strong>MRes</strong> Mathematics of Planet Earth. Imperial College London / University of Reading.</dd>
+  
+  <dt>2015 - 2018</dt>
+  <dd><strong>BSc</strong> Mathematics. University College London.</dd>
+</dl>
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Expertise in geometric mechanics, fluid dynamics, and both real and stochastic analysis.
+- Experience of teaching Analysis and Geometric Mechanics to undergraduate and postgraduate students.
+- Working knowledge of the physics of oceanography, as well as some understanding of atmospheric physics.
+- Experience of programming in Python, Matlab, and Fortran.
+- Skilled in science communication and academic writing.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
