@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Research experience
+## Research experience
 
 <dl>
   <dt>2022 - </dt>
@@ -21,7 +21,7 @@ redirect_from:
   <dd> <strong> Research internship</strong>, UK Met Office, Exeter. </dd>
 </dl>
 
-### Education
+## Education
 
 <dl>
   <dt>2019 - 2022</dt>
@@ -34,7 +34,7 @@ redirect_from:
   <dd><strong>BSc</strong> Mathematics. University College London.</dd>
 </dl>
   
-### Skills
+## Skills
 
 - Expertise in geometric mechanics, fluid dynamics, and both real and stochastic analysis.
 - Experience of teaching Analysis and Geometric Mechanics to undergraduate and postgraduate students.
