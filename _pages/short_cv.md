@@ -14,7 +14,7 @@ Research experience
 
 <dl>
   <dt>2022 - </dt>
-  <dd> <strong>Research Associate</strong>, Imperial College London, Department of Mathematics. <font size="-1"> Working within the project ‘Stochastic Transport in Upper Ocean Dynamics’ (STUOD), funded by an ERC Synergy Grant and hosted by Ifremer, Inria, and Imperial College London. </font></dd>
+  <dd> <strong>Research Associate</strong>, Imperial College London, Department of Mathematics.</dd>
 </dl>
 
 <dl>
