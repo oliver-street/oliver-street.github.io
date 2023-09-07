@@ -9,9 +9,11 @@ Much of my research activity is indexed on [Google Scholar](https://scholar.goog
 
 ### 2023
 
+Holm, D. D., Hu, R., & Street, O. D., 2023. Geometric Mechanics of the Vertical Slice Model. Preprint. Under peer review. [https://arxiv.org/abs/2309.02602](https://arxiv.org/abs/2309.02602)
+
 Holm, D. D., Hu, R., & Street, O. D., 2023. On the interactions between mean flows and inertial gravity waves. Preprint. Under peer review. [https://arxiv.org/abs/2302.04838](https://arxiv.org/abs/2302.04838)
 
-Holm, D. D., Hu, R., & Street, O. D., 2023. Lagrangian reduction and wave mean flow interaction. Preprint. Under peer review. [https://arxiv.org/abs/2301.04121](https://arxiv.org/abs/2301.04121)
+Holm, D. D., Hu, R., & Street, O. D., 2023. Lagrangian reduction and wave mean flow interaction. Physica D: Nonlinear Phenomena. 454, 133847. [https://doi.org/10.1016/j.physd.2023.133847](https://doi.org/10.1016/j.physd.2023.133847)
 
 Street, O. D., 2023. A structure preserving stochastic perturbation of classical water wave theory. Physica D: Nonlinear Phenomena. 447, 133689. [https://doi.org/10.1016/j.physd.2023.133689](https://doi.org/10.1016/j.physd.2023.133689)
 
