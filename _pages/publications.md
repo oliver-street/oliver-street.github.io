@@ -7,11 +7,13 @@ author_profile: true
 
 Much of my research activity is indexed on [Google Scholar](https://scholar.google.com/citations?user=kUSX6JcAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Oliver-Street-3). Preprint versions of most of my papers are available on [arXiv](http://arxiv.org/a/street_o_1), and the latest versions are available by following the links embedded in the following list.
 
+### 2024
+
+Holm, D. D., Hu, R., Street, O. D., 2024. On the Interactions Between Mean Flows and Inertial Gravity Waves in the WKB Approximation. In: Chapron, B. et al. (eds) Stochastic Transport in Upper Ocean Dynamics II. STUOD 2022. Mathematics of Planet Earth, vol 11. Springer, Cham. [https://doi.org/10.1007/978-3-031-40094-0_5](https://doi.org/10.1007/978-3-031-40094-0_5)
+
 ### 2023
 
 Holm, D. D., Hu, R., & Street, O. D., 2023. Geometric Mechanics of the Vertical Slice Model. Preprint. Under peer review. [https://arxiv.org/abs/2309.02602](https://arxiv.org/abs/2309.02602)
-
-Holm, D. D., Hu, R., & Street, O. D., 2023. On the interactions between mean flows and inertial gravity waves. Preprint. Under peer review. [https://arxiv.org/abs/2302.04838](https://arxiv.org/abs/2302.04838)
 
 Holm, D. D., Hu, R., & Street, O. D., 2023. Lagrangian reduction and wave mean flow interaction. Physica D: Nonlinear Phenomena. 454, 133847. [https://doi.org/10.1016/j.physd.2023.133847](https://doi.org/10.1016/j.physd.2023.133847)
 
