@@ -13,7 +13,7 @@ Holm, D. D., Hu, R., Street, O. D., 2024. On the Interactions Between Mean Flows
 
 ### 2023
 
-Street, O. D., & Takao, S., 2023. Semimargingale driven mechanics and reduction by symmetry for stochastic and dissipative dynamical systems. Preprint. Under peer review. [https://arxiv.org/abs/2312.09769](https://arxiv.org/abs/2312.09769)
+Street, O. D., & Takao, S., 2023. Semimartingale driven mechanics and reduction by symmetry for stochastic and dissipative dynamical systems. Preprint. Under peer review. [https://arxiv.org/abs/2312.09769](https://arxiv.org/abs/2312.09769)
 
 Holm, D. D., Hu, R., & Street, O. D., 2023. Geometric Mechanics of the Vertical Slice Model. Preprint. Under peer review. [https://arxiv.org/abs/2309.02602](https://arxiv.org/abs/2309.02602)
 
