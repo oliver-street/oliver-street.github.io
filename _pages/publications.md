@@ -9,6 +9,8 @@ Much of my research activity is indexed on [Google Scholar](https://scholar.goog
 
 ### 2024
 
+Holm, D. D., Hu, R., Street, O. D., 2024. Deterministic and Stochastic Geometric Mechanics for Hall MHD. Preprint. Under peer review. [https://arxiv.org/abs/2404.06528](https://arxiv.org/abs/2404.06528)
+
 Holm, D. D., Hu, R., Street, O. D., 2024. Geometric theory of perturbation dynamics around non-equilibrium fluid flows. Preprint. Under peer review. [https://arxiv.org/abs/2402.10040](https://arxiv.org/abs/2402.10040)
 
 Holm, D. D., Hu, R., Street, O. D., 2024. On the Interactions Between Mean Flows and Inertial Gravity Waves in the WKB Approximation. In: Chapron, B. et al. (eds) Stochastic Transport in Upper Ocean Dynamics II. STUOD 2022. Mathematics of Planet Earth, vol 11. Springer, Cham. [https://doi.org/10.1007/978-3-031-40094-0_5](https://doi.org/10.1007/978-3-031-40094-0_5)
