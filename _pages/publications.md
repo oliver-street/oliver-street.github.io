@@ -11,7 +11,7 @@ Much of my research activity is indexed on [Google Scholar](https://scholar.goog
 
 Dombret, A., Holm, D. D., Hu, R., Street, O. D., & Wang, H., 2024. Collisions of Burgers Bores with Nonlinear Waves. Preprint. Under peer review. [https://arxiv.org/abs/2405.08130](https://arxiv.org/abs/2405.08130)
 
-Holm, D. D., Hu, R., & Street, O. D., 2024. Deterministic and Stochastic Geometric Mechanics for Hall MHD. Preprint. Under peer review. [https://arxiv.org/abs/2404.06528](https://arxiv.org/abs/2404.06528)
+Holm, D. D., Hu, R., & Street, O. D., 2024. Deterministic and stochastic geometric mechanics for Hall magnetohydrodynamics. *Proc. R. Soc. A.* 480 20240267 [https://doi.org/10.1098/rspa.2024.0267](https://doi.org/10.1098/rspa.2024.0267)
 
 Holm, D. D., Hu, R., & Street, O. D., 2024. Geometric theory of perturbation dynamics around non-equilibrium fluid flows. Preprint. Under peer review. [https://arxiv.org/abs/2402.10040](https://arxiv.org/abs/2402.10040)
 
