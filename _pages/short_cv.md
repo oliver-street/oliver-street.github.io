@@ -12,7 +12,12 @@ redirect_from:
 ## Research experience
 
 <dl>
-  <dt>2022 - </dt>
+  <dt>2025 - </dt>
+  <dd> <strong>Research Fellow</strong>, Grantham Institute – Climate Change and Environment, Imperial College London.</dd>
+</dl>
+
+<dl>
+  <dt>2022 - 2025</dt>
   <dd> <strong>Research Associate</strong>, Imperial College London, Department of Mathematics.</dd>
 </dl>
 
