@@ -7,13 +7,17 @@ author_profile: true
 
 Much of my research activity is indexed on [Google Scholar](https://scholar.google.com/citations?user=kUSX6JcAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Oliver-Street-3). Preprint versions of most of my papers are available on [arXiv](http://arxiv.org/a/street_o_1), and the latest versions are available by following the links embedded in the following list.
 
+### 2025
+
+Holm, D. D., Hu, R., Street, O. D., 2025. Plasma dynamics in thin domains. Preprint. Under peer review. [https://arxiv.org/abs/2501.19171](https://arxiv.org/abs/2501.19171)
+
+Holm, D. D., Hu, R., Street, O. D., 2025. Geometric Theory of Perturbation Dynamics Around Non-equilibrium Fluid Flows. In: Chapron, B. et al. (eds) *Stochastic Transport in Upper Ocean Dynamics III. STUOD 2023*. Mathematics of Planet Earth, vol 13. Springer, Cham. [https://doi.org/10.1007/978-3-031-70660-8_5](https://doi.org/10.1007/978-3-031-70660-8_5)
+
+Dombret, A., Holm, D. D., Hu, R., Street, O. D., & Wang, H., 2025. Collisions of Burgers Bores with Nonlinear Waves. In: Chapron, B. et al. (eds) *Stochastic Transport in Upper Ocean Dynamics III. STUOD 2023*. Mathematics of Planet Earth, vol 13. Springer, Cham. [https://doi.org/10.1007/978-3-031-70660-8_2](https://doi.org/10.1007/978-3-031-70660-8_2)
+
 ### 2024
 
-Dombret, A., Holm, D. D., Hu, R., Street, O. D., & Wang, H., 2024. Collisions of Burgers Bores with Nonlinear Waves. Preprint. Under peer review. [https://arxiv.org/abs/2405.08130](https://arxiv.org/abs/2405.08130)
-
 Holm, D. D., Hu, R., & Street, O. D., 2024. Deterministic and stochastic geometric mechanics for Hall magnetohydrodynamics. *Proc. R. Soc. A.* 480 20240267 [https://doi.org/10.1098/rspa.2024.0267](https://doi.org/10.1098/rspa.2024.0267)
-
-Holm, D. D., Hu, R., & Street, O. D., 2024. Geometric theory of perturbation dynamics around non-equilibrium fluid flows. Preprint. Under peer review. [https://arxiv.org/abs/2402.10040](https://arxiv.org/abs/2402.10040)
 
 Holm, D. D., Hu, R., & Street, O. D., 2024. Geometric Mechanics of the Vertical Slice Model. *Geometric Mechanics*. 1 (2), 77-121. [https://doi.org/10.1142/S2972458924500011](https://doi.org/10.1142/S2972458924500011)
 
