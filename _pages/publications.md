@@ -11,6 +11,8 @@ Much of my research activity is indexed on [Google Scholar](https://scholar.goog
 
 Luesink, E. & Street, O. D., 2025. Symplectic techniques for stochastic differential equations on reductive Lie groups with applications to Langevin diffusions. Preprint. Under peer review. [https://arxiv.org/abs/2504.02707](https://arxiv.org/abs/2504.02707)
 
+Holm, D. D., Hu, R., Street, O. D., & Wang, H., 2025. SCompound Burgers-KdV Soliton Behaviour: Refraction, Reflection and Fusion. Preprint. Under peer review. [https://arxiv.org/abs/2505.17026](https://arxiv.org/abs/2505.17026)
+
 Holm, D. D. & Street, O. D., 2025. A thermal Green-Naghdi model with time dependent bathymetry and complete Coriolis force. Preprint. Under peer review. [https://arxiv.org/abs/2502.12220](https://arxiv.org/abs/2502.12220)
 
 Holm, D. D., Hu, R., & Street, O. D., 2025. Plasma dynamics in thin domains. Preprint. Under peer review. [https://arxiv.org/abs/2501.19171](https://arxiv.org/abs/2501.19171)
