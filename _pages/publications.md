@@ -9,6 +9,8 @@ Much of my research activity is indexed on [Google Scholar](https://scholar.goog
 
 ### 2025
 
+Holm, D. D., Singh, M. K., & Street, O. D., 2025. A comparative numerical study of stochastic Hamiltonian Camassa-Holm equations. Preprint. Under peer review. [https://arxiv.org/abs/2507.14264](https://arxiv.org/abs/2507.14264)
+
 Luesink, E. & Street, O. D., 2025. Symplectic techniques for stochastic differential equations on reductive Lie groups with applications to Langevin diffusions. Preprint. Under peer review. [https://arxiv.org/abs/2504.02707](https://arxiv.org/abs/2504.02707)
 
 Holm, D. D., Hu, R., Street, O. D., & Wang, H., 2025. Compound Burgers-KdV Soliton Behaviour: Refraction, Reflection and Fusion. Preprint. Under peer review. [https://arxiv.org/abs/2505.17026](https://arxiv.org/abs/2505.17026)
