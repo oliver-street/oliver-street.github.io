@@ -17,7 +17,7 @@ Holm, D. D., Hu, R., Street, O. D., & Wang, H., 2025. Compound Burgers-KdV Solit
 
 Holm, D. D. & Street, O. D., 2025. A thermal Green-Naghdi model with time dependent bathymetry and complete Coriolis force. Preprint. Under peer review. [https://arxiv.org/abs/2502.12220](https://arxiv.org/abs/2502.12220)
 
-Holm, D. D., Hu, R., & Street, O. D., 2025. Plasma dynamics in thin domains. Preprint. Under peer review. [https://arxiv.org/abs/2501.19171](https://arxiv.org/abs/2501.19171)
+Holm, D. D., Hu, R., & Street, O. D., 2025. A variational perspective on plasma dynamics in thin domains. 38 (9), 095015. [https://doi.org/10.1088/1361-6544/adffd8](https://doi.org/10.1088/1361-6544/adffd8)
 
 Holm, D. D., Hu, R., & Street, O. D., 2025. Geometric Theory of Perturbation Dynamics Around Non-equilibrium Fluid Flows. In: Chapron, B. et al. (eds) *Stochastic Transport in Upper Ocean Dynamics III. STUOD 2023*. Mathematics of Planet Earth, vol 13. Springer, Cham. [https://doi.org/10.1007/978-3-031-70660-8_5](https://doi.org/10.1007/978-3-031-70660-8_5)
 
