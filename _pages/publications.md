@@ -7,11 +7,13 @@ author_profile: true
 
 Much of my research activity is indexed on [Google Scholar](https://scholar.google.com/citations?user=kUSX6JcAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Oliver-Street-3). Preprint versions of most of my papers are available on [arXiv](http://arxiv.org/a/street_o_1), and the latest versions are available by following the links embedded in the following list.
 
+### 2026
+
+Luesink, E. & Street, O. D., 2025. Symplectic techniques for stochastic differential equations on reductive Lie groups with applications to Langevin diffusions. *Journal of Differential Equations*. 458, 114034. [https://doi.org/10.1016/j.jde.2025.114034](https://doi.org/10.1016/j.jde.2025.114034)
+
 ### 2025
 
 Holm, D. D., Singh, M. K., & Street, O. D., 2025. A comparative numerical study of stochastic Hamiltonian Camassa-Holm equations. Preprint. Under peer review. [https://arxiv.org/abs/2507.14264](https://arxiv.org/abs/2507.14264)
-
-Luesink, E. & Street, O. D., 2025. Symplectic techniques for stochastic differential equations on reductive Lie groups with applications to Langevin diffusions. Preprint. Under peer review. [https://arxiv.org/abs/2504.02707](https://arxiv.org/abs/2504.02707)
 
 Holm, D. D., Hu, R., Street, O. D., & Wang, H., 2025. Compound Burgers-KdV Soliton Behaviour: Refraction, Reflection and Fusion. Preprint. Under peer review. [https://arxiv.org/abs/2505.17026](https://arxiv.org/abs/2505.17026)
 
