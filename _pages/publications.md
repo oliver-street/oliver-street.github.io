@@ -9,15 +9,15 @@ Much of my research activity is indexed on [Google Scholar](https://scholar.goog
 
 ### 2026
 
+Holm, D. D., Singh, M. K., & Street, O. D., 2025. A comparative numerical study of stochastic Hamiltonian Camassa-Holm equations. *Proc. R. Soc. A.* 482 (2330) 20250635. [https://doi.org/10.1098/rspa.2025.0635](https://doi.org/10.1098/rspa.2025.0635).
+
 Luesink, E. & Street, O. D., 2025. Symplectic techniques for stochastic differential equations on reductive Lie groups with applications to Langevin diffusions. *Journal of Differential Equations*. 458, 114034. [https://doi.org/10.1016/j.jde.2025.114034](https://doi.org/10.1016/j.jde.2025.114034)
+
+Holm, D.D. & Street, O.D., 2026. A Thermal Green–Naghdi Model with Time-Dependent Bathymetry and Complete Coriolis Force. In: Chapron, B., Crisan, D., Holm, D.D., Mémin, E., Coughlan, JL. (eds) *Stochastic Transport in Upper Ocean Dynamics IV. STUOD 2024*. Mathematics of Planet Earth, vol 15. Springer, Cham. [https://doi.org/10.1007/978-3-032-12749-5_4](https://doi.org/10.1007/978-3-032-12749-5_4)
 
 ### 2025
 
-Holm, D. D., Singh, M. K., & Street, O. D., 2025. A comparative numerical study of stochastic Hamiltonian Camassa-Holm equations. Preprint. Under peer review. [https://arxiv.org/abs/2507.14264](https://arxiv.org/abs/2507.14264)
-
 Holm, D. D., Hu, R., Street, O. D., & Wang, H., 2025. Compound Burgers-KdV Soliton Behaviour: Refraction, Reflection and Fusion. Preprint. Under peer review. [https://arxiv.org/abs/2505.17026](https://arxiv.org/abs/2505.17026)
-
-Holm, D. D. & Street, O. D., 2025. A thermal Green-Naghdi model with time dependent bathymetry and complete Coriolis force. Preprint. Under peer review. [https://arxiv.org/abs/2502.12220](https://arxiv.org/abs/2502.12220)
 
 Holm, D. D., Hu, R., & Street, O. D., 2025. A variational perspective on plasma dynamics in thin domains. *Nonlinearity*. 38 (9), 095015. [https://doi.org/10.1088/1361-6544/adffd8](https://doi.org/10.1088/1361-6544/adffd8)
 
@@ -27,7 +27,7 @@ Dombret, A., Holm, D. D., Hu, R., Street, O. D., & Wang, H., 2025. Collisions of
 
 ### 2024
 
-Holm, D. D., Hu, R., & Street, O. D., 2024. Deterministic and stochastic geometric mechanics for Hall magnetohydrodynamics. *Proc. R. Soc. A.* 480 20240267 [https://doi.org/10.1098/rspa.2024.0267](https://doi.org/10.1098/rspa.2024.0267)
+Holm, D. D., Hu, R., & Street, O. D., 2024. Deterministic and stochastic geometric mechanics for Hall magnetohydrodynamics. *Proc. R. Soc. A.* 480 (2300) 20240267 [https://doi.org/10.1098/rspa.2024.0267](https://doi.org/10.1098/rspa.2024.0267)
 
 Holm, D. D., Hu, R., & Street, O. D., 2024. Geometric Mechanics of the Vertical Slice Model. *Geometric Mechanics*. 1 (2), 77-121. [https://doi.org/10.1142/S2972458924500011](https://doi.org/10.1142/S2972458924500011)
 
@@ -53,4 +53,4 @@ Crisan, D. & Street, O. D., 2022. On the analytical aspects of inertial particle
 
 Crisan, D., Holm, D. D., & Street, O. D., 2021. Wave–current interaction on a free surface. *Stud Appl Math*. 147 (4), 1277-1338. [https://doi.org/10.1111/sapm.12425](https://doi.org/10.1111/sapm.12425)
 
-Street, O. D. & Crisan D., 2021. Semi-martingale driven variational principles. *Proc. R. Soc. A.* 477 20200957 [http://doi.org/10.1098/rspa.2020.0957](http://doi.org/10.1098/rspa.2020.0957)
+Street, O. D. & Crisan D., 2021. Semi-martingale driven variational principles. *Proc. R. Soc. A.* 477 (2247) 20200957 [http://doi.org/10.1098/rspa.2020.0957](http://doi.org/10.1098/rspa.2020.0957)
