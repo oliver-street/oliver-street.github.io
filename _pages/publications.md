@@ -13,7 +13,7 @@ Holm, D. D., Singh, M. K., & Street, O. D., 2025. A comparative numerical study 
 
 Luesink, E. & Street, O. D., 2025. Symplectic techniques for stochastic differential equations on reductive Lie groups with applications to Langevin diffusions. *Journal of Differential Equations*. 458, 114034. [https://doi.org/10.1016/j.jde.2025.114034](https://doi.org/10.1016/j.jde.2025.114034)
 
-Holm, D.D. & Street, O.D., 2026. A Thermal Green–Naghdi Model with Time-Dependent Bathymetry and Complete Coriolis Force. In: Chapron, B., Crisan, D., Holm, D.D., Mémin, E., Coughlan, JL. (eds) *Stochastic Transport in Upper Ocean Dynamics IV. STUOD 2024*. Mathematics of Planet Earth, vol 15. Springer, Cham. [https://doi.org/10.1007/978-3-032-12749-5_4](https://doi.org/10.1007/978-3-032-12749-5_4)
+Holm, D. D. & Street, O. D., 2026. A Thermal Green–Naghdi Model with Time-Dependent Bathymetry and Complete Coriolis Force. In: Chapron, B. et al. (eds) *Stochastic Transport in Upper Ocean Dynamics IV. STUOD 2024*. Mathematics of Planet Earth, vol 15. Springer, Cham. [https://doi.org/10.1007/978-3-032-12749-5_4](https://doi.org/10.1007/978-3-032-12749-5_4)
 
 ### 2025
 
