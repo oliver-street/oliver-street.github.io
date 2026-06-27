@@ -9,6 +9,10 @@ Much of my research activity is indexed on [Google Scholar](https://scholar.goog
 
 ### 2026
 
+Cotter, C. J., Holm, D. D., & Street, O. D., 2026. Variational derivation of a moist thermal rotating shallow water model. Preprint. [https://arxiv.org/abs/2606.26353](https://arxiv.org/abs/2606.26353)
+
+Street, O. D. & Takao, S., 2026. Semimartingale driven mechanics and reduction by symmetry for stochastic and dissipative dynamical systems. To appear in *Geometric Mechanics*. [https://doi.org/10.1142/S2972458926500048](https://doi.org/10.1142/S2972458926500048) [arXiv version](https://arxiv.org/abs/2312.09769)
+
 Holm, D. D., Singh, M. K., & Street, O. D., 2026. A comparative numerical study of stochastic Hamiltonian Camassa-Holm equations. *Proc. R. Soc. A.* 482 (2330) 20250635. [https://doi.org/10.1098/rspa.2025.0635](https://doi.org/10.1098/rspa.2025.0635).
 
 Luesink, E. & Street, O. D., 2026. Symplectic techniques for stochastic differential equations on reductive Lie groups with applications to Langevin diffusions. *Journal of Differential Equations*. 458, 114034. [https://doi.org/10.1016/j.jde.2025.114034](https://doi.org/10.1016/j.jde.2025.114034)
@@ -34,8 +38,6 @@ Holm, D. D., Hu, R., & Street, O. D., 2024. Geometric Mechanics of the Vertical 
 Holm, D. D., Hu, R., & Street, O. D., 2024. On the Interactions Between Mean Flows and Inertial Gravity Waves in the WKB Approximation. In: Chapron, B. et al. (eds) *Stochastic Transport in Upper Ocean Dynamics II. STUOD 2022*. Mathematics of Planet Earth, vol 11. Springer, Cham. [https://doi.org/10.1007/978-3-031-40094-0_5](https://doi.org/10.1007/978-3-031-40094-0_5)
 
 ### 2023
-
-Street, O. D. & Takao, S., 2023. Semimartingale driven mechanics and reduction by symmetry for stochastic and dissipative dynamical systems. Preprint. Under peer review. [https://arxiv.org/abs/2312.09769](https://arxiv.org/abs/2312.09769)
 
 Holm, D. D., Hu, R., & Street, O. D., 2023. Lagrangian reduction and wave mean flow interaction. *Physica D: Nonlinear Phenomena*. 454, 133847. [https://doi.org/10.1016/j.physd.2023.133847](https://doi.org/10.1016/j.physd.2023.133847)
 
